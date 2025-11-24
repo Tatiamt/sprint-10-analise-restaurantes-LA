@@ -18,7 +18,7 @@ Este projeto analisa dados públicos de restaurantes da cidade de Los Angeles co
 ---
 
 ## 📊 Notebook da Análise  
-➡️ *Adicione o link aqui quando subir o notebook*
+➡️ *[Adicione o link aqui quando subir o notebook](https://github.com/Tatiamt/sprint-10-analise-restaurantes-LA/blob/e70df9f92a89d976958550af55f99c0ef88cb506/Projeto10.ipynb)*
 
 ---
 
