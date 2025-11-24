@@ -1,4 +1,4 @@
-Análise de Restaurantes em Los Angeles — Sprint 10
+# Análise de Restaurantes em Los Angeles — Sprint 10
 
 Este projeto analisa dados públicos de restaurantes da cidade de Los Angeles com o objetivo de avaliar o mercado e identificar oportunidades para o lançamento de uma cafeteria inovadora com garçons robôs.
 
@@ -26,7 +26,7 @@ Viabilidade de expansão em rede
 
 🖼️ Apresentação (PDF)
 
-➡️ [insira aqui o link do PDF que você subiu no GitHub](https://github.com/Tatiamt/sprint-10-analise-restaurantes-LA/blob/219b2fe6ed0311604637f0269ef2fdda8fa5144c/Apresenta%C3%A7%C3%A3o%20comercial%20para%20empresas.pdf)
+➡️ (https://github.com/Tatiamt/sprint-10-analise-restaurantes-LA/blob/219b2fe6ed0311604637f0269ef2fdda8fa5144c/Apresenta%C3%A7%C3%A3o%20comercial%20para%20empresas.pdf)
 
 🧩 Principais Conclusões
 
