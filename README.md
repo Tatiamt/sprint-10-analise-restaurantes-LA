@@ -2,7 +2,7 @@
 
 Este projeto analisa dados públicos de restaurantes da cidade de Los Angeles com o objetivo de avaliar o mercado e identificar oportunidades para o lançamento de uma cafeteria inovadora com garçons robôs.
 
-### A análise contempla:
+## A análise contempla:
 
 Tipos de estabelecimentos
 
