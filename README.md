@@ -1,56 +1,53 @@
-# Análise de Restaurantes em Los Angeles — Sprint 10
+# 🧠 Análise de Restaurantes em Los Angeles — Sprint 10
 
-Este projeto analisa dados públicos de restaurantes da cidade de Los Angeles com o objetivo de avaliar o mercado e identificar oportunidades para o lançamento de uma cafeteria inovadora com garçons robôs.
+Este projeto analisa dados públicos de restaurantes da cidade de Los Angeles com o objetivo de avaliar o mercado e identificar oportunidades para o lançamento de uma **cafeteria inovadora com garçons robôs**.
 
-## A análise contempla:
+---
 
-Tipos de estabelecimentos
+## 📌 A Análise Contempla:
 
-Redes vs Independentes
+- Tipos de estabelecimentos  
+- Redes vs Independentes  
+- Número médio de assentos  
+- Extração e estudo das ruas com mais restaurantes  
+- Ruas com apenas um restaurante  
+- Distribuição de assentos nas principais ruas  
+- Recomendações estratégicas  
+- Viabilidade de expansão em rede  
 
-Número médio de assentos
+---
 
-Extração e estudo das ruas com mais restaurantes
+## 📊 Notebook da Análise  
+➡️ *Adicione o link aqui quando subir o notebook*
 
-Ruas com apenas um restaurante
+---
 
-Distribuição de assentos nas principais ruas
+## 🖼️ Apresentação (PDF)  
+➡️ [Clique aqui para abrir a apresentação](https://github.com/Tatiamt/sprint-10-analise-restaurantes-LA/blob/main/Apresenta%C3%A7%C3%A3o%20comercial%20para%20empresas.pdf)
 
-Recomendações estratégicas
-
-Viabilidade de expansão em rede
-
-## 📊 Notebook da Análise
-
-➡️ link aqui quando você subir o notebook
-
-## 🖼️ Apresentação (PDF)
-
-[Apresentação em PDF](https://github.com/Tatiamt/sprint-10-analise-restaurantes-LA/blob/main/Apresenta%C3%A7%C3%A3o%20comercial%20para%20empresas.pdf)
-
+---
 
 ## 🧩 Principais Conclusões
 
-O mercado é diversificado e espalhado pela cidade.
+- O mercado é diversificado e espalhado pela cidade.  
+- Cafés representam uma parcela menor → concorrência moderada.  
+- Capacidade média típica: **25–40 assentos**, ideal para o modelo proposto.  
+- Mais de **1.000 ruas** têm apenas um restaurante → excelente oportunidade de entrada.  
+- Ruas como **Sunset Blvd**, **Wilshire Blvd** e **Hollywood Blvd** comportam operações maiores.  
+- Forte potencial para desenvolver uma **rede** no futuro.
 
-Cafés representam uma parcela menor → concorrência moderada.
+---
 
-Capacidade média típica: 25–40 assentos, ideal para o modelo proposto.
+## 🛠️ Tecnologias Utilizadas
 
-Mais de 1.000 ruas têm apenas um restaurante → excelente oportunidade de entrada.
+- Python  
+- Pandas  
+- Plotly  
+- Seaborn  
+- Jupyter Notebook  
 
-Ruas como Sunset Blvd, Wilshire Blvd e Hollywood Blvd comportam operações maiores.
+---
 
-Forte potencial para desenvolver uma rede no futuro.
-
-## 🛠️ Tecnologias utilizadas
-
-Python
-
-Pandas
-
-Plotly
-
-Seaborn
-
-Jupyter Notebook
+## ✨ Autor  
+**Tatiana Torres** — Analista de Dados  
+Novembro/2025
