@@ -26,7 +26,8 @@ Viabilidade de expansão em rede
 
 ## 🖼️ Apresentação (PDF)
 
-➡️ (https://github.com/Tatiamt/sprint-10-analise-restaurantes-LA/blob/219b2fe6ed0311604637f0269ef2fdda8fa5144c/Apresenta%C3%A7%C3%A3o%20comercial%20para%20empresas.pdf)
+[Apresentação em PDF](https://github.com/Tatiamt/sprint-10-analise-restaurantes-LA/blob/main/Apresenta%C3%A7%C3%A3o%20comercial%20para%20empresas.pdf)
+
 
 ## 🧩 Principais Conclusões
 
